@@ -1,6 +1,6 @@
-package koddas.web.war;
+//package koddas.web.war;
 
-import java.io.Serializable;
+//import java.io.Serializable;
 
 /**
  * MrBean is a simple example of a Java bean; a small class that encapsulates a
@@ -9,7 +9,7 @@ import java.io.Serializable;
  * 
  * @author Johan Holmberg
  */
-public class MrBean implements Serializable {
+//public class MrBean implements Serializable {
 	/**
 	 * Being a serializable class, the bean needs a unique identification
 	 * number in order for the Java system to recreate saved objects.
