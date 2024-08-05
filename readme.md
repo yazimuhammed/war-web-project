@@ -1,4 +1,4 @@
-# About this project #
+# About this project ##
 
 This project is a simple demo web application using Java annotations. It
 runs on Java 7 and requires an application server, such as
@@ -14,7 +14,7 @@ The annotations used are defined in the
 in your project, such as [Jetty](http://eclipse.org/jetty/), and be done with
 it. Using an application server is probably easier for beginners, though. 
 
-# How do I build this project?
+# How do I build this project? #
 
 You can easily build the code directly from within your IDE of choice (I'm
 personally rather fond of [Eclipse](http://www.eclipse.org)), using its build
